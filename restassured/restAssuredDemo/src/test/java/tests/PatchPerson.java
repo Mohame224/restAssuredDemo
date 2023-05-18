@@ -2,11 +2,16 @@ package tests;
 
 import java.io.IOException;
 
+import org.testng.Assert;
+import org.testng.ITestContext;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+import com.github.javafaker.Faker;
+
 import helpers.PersonServiceHelper;
+import io.restassured.response.Response;
+import model.Person;
 
 public class PatchPerson {
 
@@ -17,17 +22,19 @@ public class PatchPerson {
 
 		presonservicehelper = new PersonServiceHelper();
 	}
-	@Test(dataProvider="patchData")
-	public void updatePersonTest(String fname,String lname, String address,int age) {
-		presonservicehelper.updatePerson(18,fname,lname,address,age);
 
-	
-	}
-	
-	@DataProvider
-	public Object[][] patchData(){
-		return new Object[][] {
-			{ "hass", "ewrew", "fvsd",2322 }}; 
-	}
+	@Test
+	public void updatePersonTest(ITestContext con) {
+		Person person = new Person();
+		Faker faker = new Faker();
+		person.setFname(faker.name().firstName());
+		person.setAge(faker.number().randomDigit());
+		person.setLname(faker.name().lastName());
+		person.setAddress(faker.address().fullAddress());
+		int id = (Integer) con.getAttribute("userId");
+		Response response = presonservicehelper.updatePerson(id, person);
 
+		Assert.assertTrue(response.statusCode() == 200);
+
+	}
 }
