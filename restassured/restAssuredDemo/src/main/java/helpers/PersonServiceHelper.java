@@ -14,7 +14,7 @@ public class PersonServiceHelper {
 
 	private    String baseurl= "";
 	private    String port="";
-
+//creating the main url and port  by using constructor
 	public PersonServiceHelper() throws IOException {
 		baseurl=ConfigManager.configManager().getProperty("baseurl");
 		port=ConfigManager.configManager().getProperty("port");
@@ -22,7 +22,7 @@ public class PersonServiceHelper {
 		RestAssured.port=Integer.parseInt(port);
 		RestAssured.useRelaxedHTTPSValidation();
 	}
-	
+	//Method to get all persons from the json file
 	public Response getAllPerson(){
 		Response response=RestAssured
 				.given()
@@ -32,14 +32,14 @@ public class PersonServiceHelper {
 		return response  ;
 		
 	}
-	
+	//Method to create a new person in the dummi api using the fake data generator
 	public Response createPerson(Person person) {
 		Response response=RestAssured.given().contentType(ContentType.JSON).when()
 				.body(person).post(EndPoint.CREATE_PERSON).andReturn();
 
 		return response;
 	}
-	
+	//trying the patch request
 	public Response updatePerson(int id,Person person) {		
 
 		Response response=RestAssured
@@ -50,6 +50,8 @@ public class PersonServiceHelper {
 				.andReturn();
 		return response;
 	}
+	
+	//delete the person from the json file
 	public Response deletePerson(int id) {
 
 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listener.ReportListener"/>
+  </listeners>
+  <test thread-count="5" name="test(failed)">
+    <classes>
+      <class name="tests.CreatePersonTest">
+        <methods>
+          <include name="init"/>
+          <include name="create_person" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.CreatePersonTest -->
+      <class name="tests.E2E">
+        <methods>
+          <include name="create_person" invocation-numbers="0"/>
+          <include name="deletePersonTest" invocation-numbers="0"/>
+          <include name="updatePersonTest" invocation-numbers="0"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- tests.E2E -->
+      <class name="tests.PatchPerson">
+        <methods>
+          <include name="updatePersonTest" invocation-numbers="0"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- tests.PatchPerson -->
+      <class name="tests.DeletePersonTest">
+        <methods>
+          <include name="init"/>
+          <include name="deletePersonTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.DeletePersonTest -->
+      <class name="tests.GetAllPersons">
+        <methods>
+          <include name="init"/>
+          <include name="testgetall"/>
+        </methods>
+      </class> <!-- tests.GetAllPersons -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

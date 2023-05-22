@@ -1,0 +1,245 @@
+2023-05-21 20:01:16 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-21 20:01:16 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-21 20:01:17 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-21 20:01:17 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-21 20:01:17 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-21 20:01:17 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:37):37 - send patch request for the global id variable
+2023-05-21 20:01:17 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-21 20:01:17 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-21 20:01:17 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-21 20:01:17 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-21 20:01:17 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-21 20:01:17 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-21 20:01:46 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-21 20:01:46 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-21 20:01:47 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-21 20:01:47 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-21 20:01:47 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-21 20:01:47 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:37):37 - send patch request for the global id variable
+2023-05-21 20:01:47 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-21 20:01:47 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-21 20:01:47 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-21 20:01:47 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-21 20:01:47 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-21 20:01:47 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-21 20:02:09 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-21 20:02:09 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-21 20:02:10 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-21 20:02:10 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-21 20:02:10 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:09:22 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:09:22 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:09:23 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:09:53 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:09:53 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:09:54 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-22 15:09:54 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:09:54 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:09:54 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:09:54 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:09:54 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:10:15 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:10:15 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:10:16 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-22 15:10:16 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:10:16 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:10:16 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:10:16 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:10:16 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:11:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:11:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:11:09 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:11:09 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:11:09 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:11:48 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:11:48 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:11:49 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:11:49 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:11:49 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:12:41 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:12:41 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:12:42 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:12:42 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:12:42 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:33:20 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:33:20 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:33:22 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:33:22 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:33:22 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:33:22 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-22 15:33:22 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:37):37 - send patch request for the global id variable
+2023-05-22 15:33:22 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:34:36 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:34:36 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:34:37 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:34:37 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:34:37 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:34:38 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:34:38 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:34:38 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:34:38 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:34:38 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:34:38 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-22 15:34:38 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:37):37 - send patch request for the global id variable
+2023-05-22 15:34:38 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:35:26 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:35:27 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:35:28 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:35:28 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:35:28 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:35:28 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:35:28 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:35:28 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:35:28 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:35:28 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:35:28 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:36:23 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:36:23 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:36:24 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:36:24 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:36:24 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-22 15:36:25 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:37):37 - send patch request for the global id variable
+2023-05-22 15:36:25 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:36:25 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:36:25 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:36:25 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:36:25 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:36:25 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:37:06 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:37:06 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:37:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:37:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:37:08 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:37:08 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:37:08 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:37:08 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:37:08 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:37:08 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:37:08 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-22 15:37:08 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:37):37 - send patch request for the global id variable
+2023-05-22 15:37:08 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:38:12 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:38:12 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:38:13 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:38:13 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:38:13 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:38:13 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:38:13 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:38:13 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:38:13 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:38:13 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:38:13 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:29):29 - create fake data for the patch request
+2023-05-22 15:38:13 INFO  tests.PatchPerson.updatePersonTest(PatchPerson.java:37):37 - send patch request for the global id variable
+2023-05-22 15:38:13 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:40:03 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:40:03 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:40:04 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:40:04 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:40:04 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:40:04 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:40:04 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:40:04 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:40:04 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:40:04 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:40:04 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:40:28 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:40:28 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:40:29 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:40:29 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:40:29 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:40:29 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:40:29 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:40:29 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:40:29 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:40:29 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:40:29 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:40:53 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:40:53 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:40:54 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:40:54 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:40:54 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:40:54 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:40:54 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:40:54 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:40:54 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:40:54 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:40:54 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:42:05 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:42:05 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:42:06 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:42:06 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:42:06 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:42:06 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:42:06 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:42:06 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:42:06 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:42:07 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:42:07 INFO  tests.PatchPersontest.updatePersonTest(PatchPersontest.java:29):29 - create fake data for the patch request
+2023-05-22 15:42:07 INFO  tests.PatchPersontest.updatePersonTest(PatchPersontest.java:37):37 - send patch request for the global id variable
+2023-05-22 15:42:07 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:42:45 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:42:45 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:42:46 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:42:46 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:42:46 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:42:46 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:42:46 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:42:46 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:42:46 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:42:46 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:42:46 INFO  tests.PatchPersontest.updatePersonTest(PatchPersontest.java:29):29 - create fake data for the patch request
+2023-05-22 15:42:46 INFO  tests.PatchPersontest.updatePersonTest(PatchPersontest.java:37):37 - send patch request for the global id variable
+2023-05-22 15:42:46 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:43:07 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:43:07 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:43:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:43:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:43:08 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:43:08 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:43:08 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:43:08 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:43:08 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:43:08 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:43:08 INFO  tests.SchemaValidator.testgetall(SchemaValidator.java:25):25 - test the schema of the get response to the file 
+2023-05-22 15:48:15 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:48:15 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:48:16 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:48:16 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:48:16 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:48:16 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:48:16 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:48:17 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:48:17 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:48:17 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:48:32 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:48:32 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:48:33 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:48:33 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:48:33 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:48:33 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:48:33 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:48:33 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:48:33 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:48:33 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:48:53 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:48:53 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:48:54 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:48:54 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:48:54 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:48:54 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:48:54 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:48:54 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:48:54 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:48:54 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request
+2023-05-22 15:48:54 INFO  tests.PatchPersontest.updatePersonTest(PatchPersontest.java:29):29 - create fake data for the patch request
+2023-05-22 15:48:54 INFO  tests.PatchPersontest.updatePersonTest(PatchPersontest.java:37):37 - send patch request for the global id variable
+2023-05-22 15:49:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:28):28 - create fake data
+2023-05-22 15:49:08 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:35):35 - sending post request
+2023-05-22 15:49:09 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:38):38 - check status code
+2023-05-22 15:49:09 INFO  tests.CreatePersonTest.create_person(CreatePersonTest.java:40):40 - create global variable from id 
+2023-05-22 15:49:09 INFO  tests.DeletePersonTest.deletePersonTest(DeletePersonTest.java:26):26 - send delete reuest to the global id variable
+2023-05-22 15:49:09 INFO  tests.E2E.create_person(E2E.java:33):33 - create fake data to the post request
+2023-05-22 15:49:09 INFO  tests.E2E.create_person(E2E.java:40):40 - send the post request
+2023-05-22 15:49:09 INFO  tests.E2E.updatePersonTest(E2E.java:51):51 - cretae fake data for the patch request
+2023-05-22 15:49:09 INFO  tests.E2E.updatePersonTest(E2E.java:59):59 - send the patch request
+2023-05-22 15:49:09 INFO  tests.E2E.deletePersonTest(E2E.java:69):69 - send the delete request

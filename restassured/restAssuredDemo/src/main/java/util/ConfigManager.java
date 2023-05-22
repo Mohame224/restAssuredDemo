@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 import java.util.Properties;
-
+//reading from the configuration file
 public class ConfigManager {
 	public static Properties prop;
 

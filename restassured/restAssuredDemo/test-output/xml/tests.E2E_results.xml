@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.145">
+    <properties></properties>
+
+
+
+            <testcase
+                name="deletePersonTest"
+                time="0.029"
+                classname="tests.E2E">
+            </testcase>
+            <testcase
+                name="create_person"
+                time="0.049"
+                classname="tests.E2E">
+            </testcase>
+            <testcase
+                name="updatePersonTest"
+                time="0.067"
+                classname="tests.E2E">
+            </testcase>
+</testsuite>
