@@ -5,7 +5,7 @@
 	<test name="test">
 		<classes>
 			<class name="tests.CreatePersonTest" />
-			<class name="tests.PatchPerson" />
+			<class name="tests.PatchPersontest" />
 			<class name="tests.DeletePersonTest" />
 			<class name="tests.GetAllPersons" />
 			<class name="tests.E2E" />

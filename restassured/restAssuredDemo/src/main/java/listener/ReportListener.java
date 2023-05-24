@@ -21,7 +21,7 @@ public class ReportListener implements ITestListener {
 	public void onStart(ITestContext context) {
 		String timestamp = new SimpleDateFormat("yyyy.MM.dd.HH.ss").format(new Date());
 		String repname = "testReport" + timestamp + ".html";
-		spark = new ExtentSparkReporter(".//reports//"+repname);
+		spark = new ExtentSparkReporter(".//test-output//Extentreports//"+repname);
 		extent = new ExtentReports();
 		extent.attachReporter(spark);
 		extent.setSystemInfo("user", "oos");

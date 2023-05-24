@@ -25,21 +25,27 @@ public class CreatePersonTest {
 
 	@Test
 	public void create_person(ITestContext con) {
-		Loggers.logger.info("create fake data");
+		Loggers.logger.info("get faker data from faker class then adding it to pojo object");
 		Person person = new Person();
 		FakerData faker = new FakerData();
 		person.setFname(faker.fname);
 		person.setAge(faker.age);
 		person.setLname(faker.lname);
 		person.setAddress(faker.address);
-		Loggers.logger.info("sending post request");
+
 		Response reponse = presonservicehelper.createPerson(person);
 		int id = reponse.jsonPath().get("id");
-		Loggers.logger.info("check status code");
+		Loggers.logger.info("check status code==201");
 		Assert.assertTrue(reponse.statusCode() == 201);
-		Loggers.logger.info("create global variable from id ");
+		Loggers.logger.info("create global variable user id {} from the response ",id);
 		con.setAttribute("userId", id);
-
+	}
+	@Test
+	public void deletePersonTest(ITestContext con) {
+		Loggers.logger.info("getting the id to delete {}",con.getAttribute("userId"));
+		Response response=presonservicehelper.deletePerson((Integer) con.getAttribute("userId"));
+		Assert.assertTrue(response.statusCode()==200);
+		
 	}
 
 }

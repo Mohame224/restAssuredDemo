@@ -2,7 +2,7 @@
 <Configuration status="WARN">
 	
 	  <Properties>
-    <Property name="filename">./logs</Property>
+    <Property name="filename">./test-output/logs</Property>
   </Properties>
 	<Appenders>
 		<RollingFile name="log" fileName="${filename}/logdemo.log"

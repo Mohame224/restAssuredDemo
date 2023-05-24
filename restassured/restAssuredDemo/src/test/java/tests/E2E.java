@@ -56,7 +56,7 @@ public class E2E {
 		person.setLname(faker.lname);
 		person.setAddress(faker2.address().fullAddress());
 		int id = (Integer) con.getAttribute("userId");
-		Loggers.logger.info("send the patch request");
+		Loggers.logger.info("getting id variable{}", id);
 		Response response = presonservicehelper.updatePerson(id, person);
 
 		Assert.assertTrue(response.statusCode() == 200);
@@ -66,7 +66,6 @@ public class E2E {
 	@Test(priority = 3)
 	public void deletePersonTest(ITestContext con) {
 
-		Loggers.logger.info("send the delete request");
 		Response response = presonservicehelper.deletePerson((Integer) con.getAttribute("userId"));
 		Assert.assertTrue(response.statusCode() == 200);
 
